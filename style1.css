@@ -1,0 +1,29 @@
+p1
+{
+
+color: darkblue;
+
+}
+
+p2
+
+{
+	color: darkgreen;
+}
+
+.c
+{
+
+border: solid 2px blueviolet;
+background-color: skyblue;
+border-radius: 2px;
+width: 20%;
+height: 20%;
+padding: 30px;
+margin: auto;
+text-align: center;
+
+
+}
+
+
